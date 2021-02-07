@@ -1,0 +1,2 @@
+(this.webpackJsonpblog=this.webpackJsonpblog||[]).push([[10],{67:function(e,t,s){"use strict";s.r(t);var c=s(1);t.default=function(){return Object(c.jsx)("footer",{className:"py-5 bg-dark",children:Object(c.jsx)("div",{className:"container",children:Object(c.jsx)("p",{className:"m-0 text-center text-white",children:"Copyright \xa9 Your Website 2020"})})})}}}]);
+//# sourceMappingURL=10.2b119192.chunk.js.map
