@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const blogAPI = axios.create({
-    baseURL: 'http://hamyaredigi.ir/amin/index.php/wp-json',
+    baseURL: 'https://hamyaredigi.ir/amin/index.php/wp-json',
     //timeout: 5000,
 })
 
